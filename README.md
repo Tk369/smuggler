@@ -10,6 +10,8 @@
      @defparam
 ```
 
+HTTP请求走私工具
+
 # Smuggler
 
 An HTTP Request Smuggling / Desync testing tool written in Python 3
